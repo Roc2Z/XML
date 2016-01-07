@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="style3.css"?>
+<!DOCTYPE person SYSTEM "demo.dtd">
+<person>
+	<info>
+		<name>钟宇鹏</name>
+		<sex>男</sex>
+		<birth>940527</birth>
+		<study>本科</study>
+		<school>鲁东大学</school>
+		<major>信息与计算科学</major>
+		<practice>无</practice>
+		<now>学生</now>
+		<job>Java开发</job>
+		<money>6k-8k</money>
+		<tel>13256950926</tel>
+	</info>
+	<ability>
+		<able1>熟悉各种操作系统</able1>
+		<able2>熟悉Html、Css、Javascript、Asp、SQL标准语句</able2>
+		<able3>熟悉Access，MySQL数据库</able3>
+		<able4>熟悉PHP，JAVA后台开发</able4>
+		<able5>熟悉各种WEB前端工具</able5>
+	
+	
+	</ability>
+	<evaluation>忠实诚信,讲原则，说到做到，决不推卸责任;有自制力，做事情始终坚持有始有终，从不半途而废;肯学习,有问题不逃避,愿意虚心向他人学习;自信但不自负,不以自我为中心;愿意以谦虚态度赞扬接纳优越者,权威者;会用100%的热情和精力投入到工作中;平易近人。为人诚恳,性格开朗,积极进取,适应力强、勤奋好学、脚踏实地，有较强的团队精神,工作积极进取,态度认真。</evaluation>
+	<experience>没有工作经验，做过个人项目开发</experience>
+</person>

@@ -1,0 +1,58 @@
+person{
+	display:block;
+	width:80%;
+	margin:0 auto;
+	
+	}
+info{
+	display:block;
+	width:100%;
+	margin:0 auto;
+	clear:both;
+	border:1px solid #0F0;
+	}
+study,major,money,now,sex{
+	width:49%;
+	float:left;
+	border-bottom:1px solid #00F;
+	display:block;
+	
+	}
+name,birth,practice,school,job{
+	width:50%;
+	float:left;
+	border-bottom:1px solid #00F;
+	display:block;
+	border-right:1px solid #00F;
+	
+	}
+tel{
+	width:100%;
+	display:block;
+	
+	margin-top:10px;
+	}
+ability{
+	display:block;
+	margin-top:20px;
+	width:100%;
+	border:#0F0 1px solid;
+	}
+able1,able2,able3,able4,able5{
+	display:block;
+	width:100%;
+	border-bottom:1px solid #00F;
+	
+	}
+evaluation{
+	display:block;
+	margin-top:20px;
+	width:100%;
+	border:#0F0 1px solid;
+	}
+experience{
+	display:block;
+	margin-top:20px;
+	width:100%;
+	border:#0F0 1px solid;
+	}

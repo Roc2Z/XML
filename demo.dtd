@@ -1,0 +1,22 @@
+<!DOCTYPE person [
+<!ELEMENT info (name,sex,birth,study,school,major,practice,now,job,money,tel)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT sex (#PCDATA)>
+<!ELEMENT birth (#PCDATA)>
+<!ELEMENT study (#PCDATA)>
+<!ELEMENT school (#PCDATA)>
+<!ELEMENT major (#PCDATA)>
+<!ELEMENT practice (#PCDATA)>
+<!ELEMENT now (#PCDATA)>
+<!ELEMENT job (#PCDATA)>
+<!ELEMENT money (#PCDATA)>
+<!ELEMENT tel (#PCDATA)>
+<!ELEMENT ability (able1,able2,able3,able4,able5+)>
+<!ELEMENT able1 (#PCDATA)>
+<!ELEMENT able2 (#PCDATA)>
+<!ELEMENT able3 (#PCDATA)>
+<!ELEMENT able4 (#PCDATA)>
+<!ELEMENT able5 (#PCDATA)>
+<!ELEMENT evaluation (#PCDATA)>
+<!ELEMENT experience (#PCDATA)>
+]>
